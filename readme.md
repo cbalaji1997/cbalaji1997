@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1SB8aaimfFPedJfSejokH0-BLVWSDWpjtiAkKYE0QQyY/edit?usp=sharing)
 
-- 👨‍💻 All of my projects are available at Github and [Portfolio](https://jhakailash.github.io/)
+- 👨‍💻 All of my projects are available at Github and [Portfolio]()
 
 - 💬 Ask me about *HTML, CSS, JavaScript, React & DSA*
 
