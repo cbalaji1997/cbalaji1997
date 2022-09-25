@@ -1,4 +1,7 @@
-## Hi <img src="files\wave-gif.gif" width="30px">, I'm Balaji😊
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 <h3 align="center">A passionate Full Stack Developer is in making</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
