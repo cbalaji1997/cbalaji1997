@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Balaji Chavan</h1>
+## Hi <img src="files\wave-gif.gif" width="30px">, I'm Balaji😊
 <h3 align="center">A passionate Full Stack Developer is in making</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
