@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning *Nodejs*
 
--  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mgIJUXfuBO3w-lANODdtrxs1qxAReSKm/view?usp=share_link)
+-  📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DOeEl0mT9dwysSuLVG23IswW97umnL3e/view?usp=share_link)
 
 
 - 👨‍💻 All of my projects are available at Github and [Portfolio](https://cbalaji1997.github.io/)
