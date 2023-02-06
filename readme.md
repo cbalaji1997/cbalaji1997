@@ -110,15 +110,11 @@
 <br/>
 <br/>
 
-   <p align="center">                                                                                                 
-    <a href="https://github.com/cbalaji1997/github-readme-stats"><img alt="cbalaji1997 Github Stats" src="https://github-readme-stats.vercel.app/api?username=cbalaji1997&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="cbalaji1997" /></a>
-    </p>  
+<p align="center">
+<a href="https://github.com/cbalaji1997"><span>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhakailash&theme=dracula" />
+</span></a> </p>
 
 <br/>
 <br/>
 
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cbalaji1997&show_icons=true&locale=en&layout=compact" alt="cbalaji1997" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=cbalaji1997&show_icons=true&locale=en" alt="cbalaji1997" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbalaji1997&" alt="cbalaji1997" /></p> -->
