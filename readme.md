@@ -110,7 +110,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/cbalaji1997/github-readme-activity-graph"><img alt="cbalaji1997 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cbalaji1997&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+   <p align="center">                                                                                                 
+    <a href="https://github.com/cbalaji1997/github-readme-stats"><img alt="cbalaji1997 Github Stats" src="https://github-readme-stats.vercel.app/api?username=cbalaji1997&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="cbalaji1997" /></a>
+    </p>  
 
 <br/>
 <br/>
