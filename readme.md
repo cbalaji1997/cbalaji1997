@@ -112,7 +112,7 @@
 
 <p align="center">
 <a href="https://github.com/cbalaji1997"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhakailash&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cbalaji1997&theme=dracula" />
 </span></a> </p>
 
 <br/>
